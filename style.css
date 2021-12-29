@@ -36,6 +36,7 @@ img {
 #established {
   text-align: center;
   font-style: italic;
+  margin-top: -10px;
 }
 #title {
   display: flex;
@@ -48,4 +49,21 @@ img {
   margin: 0 auto;
   margin-top: -10px;
   margin-bottom: 25px;
+}
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.flavor,
+.dessert {
+  text-align: left;
+  width: 74%;
+}
+.price {
+  text-align: right;
+  width: 24%;
+}
+#bottom-line {
+  margin-top: 20px;
 }
