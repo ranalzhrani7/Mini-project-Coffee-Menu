@@ -67,3 +67,10 @@ img {
 #bottom-line {
   margin-top: 20px;
 }
+footer p {
+  text-align: center;
+  font-size: 14px;
+}
+a {
+  color: black;
+}
