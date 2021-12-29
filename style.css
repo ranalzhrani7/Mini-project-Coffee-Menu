@@ -43,3 +43,9 @@ img {
   align-items: baseline;
   gap: 10px;
 }
+.icon {
+  display: block;
+  margin: 0 auto;
+  margin-top: -10px;
+  margin-bottom: 25px;
+}
