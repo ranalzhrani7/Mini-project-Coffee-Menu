@@ -77,11 +77,14 @@ a {
 @media only screen and (max-width: 600px) {
   #menu {
     width: 70%;
-    height: 80%;
+    height: 75%;
+    padding-top: 5px;
+    padding-bottom: 8px;
   }
   body {
     font-size: 0.8em;
     background-size: cover;
+    padding: 10px;
   }
   h1 {
     font-size: 2em;
