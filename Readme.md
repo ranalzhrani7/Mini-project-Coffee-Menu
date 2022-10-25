@@ -2,6 +2,8 @@
 
 > This is a mini project, re-created from freeCodeCamp's cafe menu lesson.
 
+#### Live Site URL: [https://virag-ky.github.io/Mini-project-Coffee-Menu/](https://virag-ky.github.io/Mini-project-Coffee-Menu/)
+
 ## Built with
 * HTML
 * CSS
@@ -9,8 +11,7 @@
 ## Screenshot
 ![cafe-menu](https://user-images.githubusercontent.com/79658534/153754997-06ebe1f0-cf22-4d5d-b4e7-c89d6b28beb6.png)
 
-## Links
-* Live Site URL: [https://virag-ky.github.io/Mini-project-Coffee-Menu/](https://virag-ky.github.io/Mini-project-Coffee-Menu/)
+
 
 ## Icons/Images
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
